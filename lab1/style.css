@@ -1,0 +1,28 @@
+*{
+    background: #e3cfb6;
+}
+.logo{
+    width:300px;
+    cursor:pointer;
+    margin-left: 40%;
+}
+h1{
+    font-size: 250%;
+    text-align: center;
+    color: maroon;
+}
+h2{  
+    color: black;
+    font-size: 25px;
+}
+h4{ 
+    font-size: larger;
+    color: black;
+}
+li{
+   color: black;
+}
+ h3{
+        font-size: 18px;
+    }
+
